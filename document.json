@@ -1,0 +1,40 @@
+{
+  "name": "Data Science Collection",
+  "description": "A collection of Data Science Learning materials in the form of IPython Notebooks.",
+  "logo": "_images/notebook-1.png",
+  "has_supporting_content": false,
+  "de_catalog_id": "data_science_collection",
+  "source_repo": "https://github.com/i-data-explorer/learn-data-science-collection-tile.git",
+  "cover": "cover.md",
+  "buckets":[],
+  "use_explorer_dataset": false,
+  "explorer_catalog_id": "",
+  "use_catalog_dataset": false,
+  "is_s3_type": false,
+  "meta": {
+    "Install Time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Notebook"
+    ],
+    "Dataset": [
+      "UN data on economic indicators of countries"
+    ], 
+    "Categories": [
+      "Education"
+    ],
+    "Update Frequency": [
+      "Monthly"
+     ],
+    "Last Updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
+    ],
+"Catalog ID": [
+      "data_science_collection"
+    ]
+  }
+}

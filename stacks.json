@@ -1,0 +1,21 @@
+{
+  "title": "Data Science Collection",
+  "description": "A collection of Data Science Learning materials in the form of IPython Notebooks.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset"
+  ],
+  
+  "document": "data_science_collection",
+  "stack_id": "data_science_collection",
+  "type": "dataset",
+  "categories": [
+    "Education"
+  ],
+  "git_url": "https://github.com/i-data-explorer/learn-data-science-collection-tile.git",
+  "git_commit": "",
+  "managed_by": ["Edge"],
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+}
