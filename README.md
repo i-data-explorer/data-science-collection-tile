@@ -1,1 +1,1 @@
-# Le Mans Data Science 101
+# Data Science 101
